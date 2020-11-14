@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "furball-testing": {
+      "hosting": {
+        "furball-portal": [
+          "furball-testing"
+        ]
+      }
+    }
+  }
+}

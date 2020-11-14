@@ -103,8 +103,16 @@
           "options": {
             "browserTarget": "furball-portal:build"
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "furball-portal"
+    }
+  },
+  "defaultProject": "furball-portal",
+  "cli": {
+    "analytics": "04f848bc-1668-4a8b-8e63-497f6ee1b85a"
+  }
 }
